@@ -145,7 +145,12 @@ var layout = {
                         },
                         "/Configuration/General": {
                             "durationTime": "1",
-                            "launchers": "multi;*;5;file:///usr/share/applications/org.kde.dolphin.desktop;file:///usr/share/applications/org.kde.kate.desktop;file:///usr/share/applications/org.kde.konsole.desktop;file:///usr/share/applications/qupzilla.desktop;file:///usr/share/applications/systemsettings.desktop",
+                            "launchers": "multi;*;5;\
+                                  file:///usr/share/applications/org.kde.dolphin.desktop;\
+                                  file:///usr/share/applications/org.kde.kate.desktop;\
+                                  file:///usr/share/applications/org.kde.konsole.desktop;\
+                                  file:///usr/share/applications/qupzilla.desktop;\
+                                  file:///usr/share/applications/systemsettings.desktop",
                             "showBarLine": "false",
                             "showOnlyCurrentActivity": "false",
                             "showOnlyCurrentDesktop": "true",
