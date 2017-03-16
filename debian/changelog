@@ -1,20 +1,12 @@
-nomad-plasma-look-and-feel (1.0-1ubuntu1) UNRELEASED; urgency=medium
+nomad-plasma-look-and-feel (1.1) nxos; urgency=medium
 
   [ Alexis Lopez Zubieta ]
   * Adding debian folder
   * Spliting long string constant into lines to make lint happier.
-  * Spliting long string constant into lines to make lint happier.
 
   [ Ubuntu ]
 
-  [ Alexis Lopez Zubieta ]
-  * Adding debian folder
-  * Spliting long string constant into lines to make lint happier.
-  * Spliting long string constant into lines to make lint happier.
-
-  [ Ubuntu ]
-
- -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Thu, 16 Mar 2017 05:52:44 +0000
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Thu, 16 Mar 2017 05:58:23 +0000
 
 nomad-plasma-look-and-feel (1.0-1) nxos; urgency=medium
 
