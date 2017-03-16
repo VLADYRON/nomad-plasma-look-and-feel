@@ -1,4 +1,13 @@
-nomad-plasma-look-and-feel (1.1) nxos; urgency=medium
+nomad-plasma-look-and-feel (1.1-1ubuntu1) UNRELEASED; urgency=medium
+
+  [ Alexis Lopez Zubieta ]
+  * Adding gbp.conf
+
+  [ Ubuntu ]
+
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Thu, 16 Mar 2017 06:14:52 +0000
+
+nomad-plasma-look-and-feel (1.1-1) nxos; urgency=medium
 
   [ Alexis Lopez Zubieta ]
   * Adding debian folder
