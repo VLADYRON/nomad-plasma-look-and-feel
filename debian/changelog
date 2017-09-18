@@ -1,3 +1,9 @@
+nomad-plasma-look-and-feel (1.2-2nxos1) nxos; urgency=medium
+
+  * Fix aurare cmake
+
+ -- Alexis López Zubieta <azubieta90@gmail.com>  Mon, 18 Sep 2017 18:31:34 -0500
+
 nomad-plasma-look-and-feel (1.2-1nxos1) nxos; urgency=medium
 
   * Adding layout
