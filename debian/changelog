@@ -1,3 +1,9 @@
+nomad-plasma-look-and-feel (1.2-1nxos1) nxos; urgency=medium
+
+  * Adding layout
+
+ -- Alexis López Zubieta <azubieta90@gmail.com>  Mon, 18 Sep 2017 18:23:44 -0500
+
 nomad-plasma-look-and-feel (1.1-1nxos1) nxos; urgency=medium
 
   [ Alexis Lopez Zubieta ]
