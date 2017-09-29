@@ -8,7 +8,7 @@ activity.writeConfig("ToolBoxButtonState", "bottomright")
 activity.writeConfig("showToolbox", false)
 
 // Create top pannel
-panel = new Panel()
+panel = new plasma.Panel
 panel.location = "top"
 panel.alignment = "center"
 panel.locked = true
