@@ -1,3 +1,9 @@
+nomad-plasma-look-and-feel (1.5-1) nxos; urgency=medium
+
+  * Add Cambridge wallpaper theme.
+
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Thu, 28 Sep 2017 23:58:33 -0500
+
 nomad-plasma-look-and-feel (1.4-3) nxos; urgency=medium
 
   * Apply layout changes for both themes. 
