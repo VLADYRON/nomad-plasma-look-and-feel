@@ -1,3 +1,10 @@
+nomad-plasma-look-and-feel (1.4-2) nxos; urgency=medium
+
+  * Hide desktop toolbox
+  * Lock panel widgets
+
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Thu, 28 Sep 2017 23:23:52 -0500
+
 nomad-plasma-look-and-feel (1.4-1) nxos; urgency=medium
 
   * Adding konsole profile.
