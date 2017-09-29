@@ -1,7 +1,14 @@
 var plasma = getApiVersion(1)
 
+var activityId = activityIds[0]
+
+var activity = desktopById(activityId)
+activity.currentConfigGroup = ["General"]
+activity.writeConfig("ToolBoxButtonState", "bottomright")
+activity.writeConfig("showToolbox", false)
+
 // Create top pannel
-panel = new Panel()
+panel = new plasma.Panel
 panel.location = "top"
 panel.alignment = "center"
 
@@ -27,3 +34,5 @@ systrayContainer.currentConfigGroup = ['General']
 systrayContainer.writeConfig("knownItems", "org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.volume")
 
 panel.addWidget("org.nomad.clock")
+
+panel.locked = true
