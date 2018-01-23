@@ -1,3 +1,9 @@
+nomad-plasma-look-and-feel (1.6) nxos; urgency=medium
+
+  * Bump version.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Tue, 23 Jan 2018 15:57:29 -0500
+ 
 nomad-plasma-look-and-feel (1.5-2) nxos; urgency=medium
 
   * Adding default wallpaper to the layout.
